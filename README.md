@@ -7,10 +7,10 @@ to manage their tasks efficiently by adding, deleting and marking tasks as compl
 
 ## 📒 Features of To-Do List Website
 
-**1)Add New Tasks**: Easily add new tasks to your list.
-**2)Mark as Completed**: Click on a task to mark it as completed.
-**3)Delete Tasks**: Remove tasks when they are no longer needed.
-**4)Responsive Design**: Works well on both desktop and mobile devices.
+**1)Add New Tasks**: Easily add new tasks to your list.<br>
+**2)Mark as Completed**: Click on a task to mark it as completed.<br>
+**3)Delete Tasks**: Remove tasks when they are no longer needed.<br>
+**4)Responsive Design**: Works well on both desktop and mobile devices.<br>
 **5)Data Persistence**: Stores tasks in the browser's local storage, so tasks remain even after refreshing the page.
 
 ## 🛠️ Technologies Used
